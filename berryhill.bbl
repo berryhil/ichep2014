@@ -1,0 +1,309 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Aad:2008zzm}
+G.~Aad, et~al., {The ATLAS Experiment at the CERN Large Hadron Collider}, JINST
+  3 (2008) S08003.
+\newblock \href {http://dx.doi.org/10.1088/1748-0221/3/08/S08003}
+  {\path{doi:10.1088/1748-0221/3/08/S08003}}.
+
+\bibitem{Abulencia:2005ix}
+A.~Abulencia, et~al., {Measurements of inclusive W and Z cross sections in p
+  anti-p collisions at s**(1/2) = 1.96-TeV}, J.Phys. G34 (2007) 2457--2544.
+\newblock \href {http://arxiv.org/abs/hep-ex/0508029}
+  {\path{arXiv:hep-ex/0508029}}, \href
+  {http://dx.doi.org/10.1088/0954-3899/34/12/001}
+  {\path{doi:10.1088/0954-3899/34/12/001}}.
+
+\bibitem{CMSdetector}
+S.~Chatrchyan, et~al., The {CMS} experiment at the {CERN LHC}, JINST 3 (2008)
+  S08004.
+\newblock \href {http://dx.doi.org/10.1088/1748-0221/3/08/S08004}
+  {\path{doi:10.1088/1748-0221/3/08/S08004}}.
+
+\bibitem{Abazov:2005pn}
+V.~Abazov, et~al., {The Upgraded D0 detector}, Nucl.Instrum.Meth. A565 (2006)
+  463--537.
+\newblock \href {http://arxiv.org/abs/physics/0507191}
+  {\path{arXiv:physics/0507191}}, \href
+  {http://dx.doi.org/10.1016/j.nima.2006.05.248}
+  {\path{doi:10.1016/j.nima.2006.05.248}}.
+
+\bibitem{Alves:2008zz}
+J.~Alves, A.~Augusto, et~al., {The LHCb Detector at the LHC}, JINST 3 (2008)
+  S08005.
+\newblock \href {http://dx.doi.org/10.1088/1748-0221/3/08/S08005}
+  {\path{doi:10.1088/1748-0221/3/08/S08005}}.
+
+\bibitem{Aad:2013iua}
+G.~Aad, et~al., {Measurement of the high-mass Drell--Yan differential
+  cross-section in pp collisions at sqrt(s)=7 TeV with the ATLAS detector},
+  Phys.Lett. B725 (2013) 223--242.
+\newblock \href {http://arxiv.org/abs/1305.4192} {\path{arXiv:1305.4192}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2013.07.049}
+  {\path{doi:10.1016/j.physletb.2013.07.049}}.
+
+\bibitem{Aad:2014qja}
+G.~Aad, et~al., {Measurement of the low-mass Drell-Yan differential cross
+  section at $\sqrt{s}$ = 7 TeV using the ATLAS detector}, JHEP 1406 (2014)
+  112.
+\newblock \href {http://arxiv.org/abs/1404.1212} {\path{arXiv:1404.1212}},
+  \href {http://dx.doi.org/10.1007/JHEP06(2014)112}
+  {\path{doi:10.1007/JHEP06(2014)112}}.
+
+\bibitem{Aad:2014xaa}
+G.~Aad, et~al., {Measurement of the $Z/\gamma^*$ boson transverse momentum
+  distribution in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS
+  detector}\href {http://arxiv.org/abs/1406.3660} {\path{arXiv:1406.3660}}.
+
+\bibitem{Aad:2012wfa}
+G.~Aad, et~al., {Measurement of angular correlations in Drell-Yan lepton pairs
+  to probe Z/gamma* boson transverse momentum at sqrt(s)=7 TeV with the ATLAS
+  detector}, Phys.Lett. B720 (2013) 32--51.
+\newblock \href {http://arxiv.org/abs/1211.6899} {\path{arXiv:1211.6899}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2013.01.054}
+  {\path{doi:10.1016/j.physletb.2013.01.054}}.
+
+\bibitem{Aad:2013izg}
+G.~Aad, et~al., {Measurements of Wγ and Zγ production in pp collisions at
+  $\sqrt{s}$=7  TeV with the ATLAS detector at the LHC}, Phys.Rev. D87~(11)
+  (2013) 112003.
+\newblock \href {http://arxiv.org/abs/1302.1283} {\path{arXiv:1302.1283}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.87.112003}
+  {\path{doi:10.1103/PhysRevD.87.112003}}.
+
+\bibitem{ATLAS:2012mec}
+G.~Aad, et~al., {Measurement of $W^+W^-$ production in pp collisions at
+  $\sqrt{s}$=7  TeV with the ATLAS detector and limits on anomalous WWZ and
+  WWγ couplings}, Phys.Rev. D87~(11) (2013) 112001.
+\newblock \href {http://arxiv.org/abs/1210.2979} {\path{arXiv:1210.2979}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.87.112001,
+  10.1103/PhysRevD.88.079906} {\path{doi:10.1103/PhysRevD.87.112001,
+  10.1103/PhysRevD.88.079906}}.
+
+\bibitem{ATLAS-CONF-2014-033}
+{Measurement of the $W^+W^-$ production cross section in proton-proton
+  collisions at $\sqrt{s} =8$ TeV with the ATLAS detector}, Tech. Rep.
+  ATLAS-CONF-2014-033, CERN, Geneva (Jul 2014).
+
+\bibitem{Aaltonen:2014loa}
+T.~A. Aaltonen, et~al., {Indirect measurement of $\sin^2 \theta_W$ (or $M_W$)
+  using $\mu^+\mu^-$ pairs from $\gamma^*/Z$ bosons produced in $p\bar{p}$
+  collisions at a center-of-momentum energy of 1.96 TeV}, Phys.Rev. D89 (2014)
+  072005.
+\newblock \href {http://arxiv.org/abs/1402.2239} {\path{arXiv:1402.2239}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.89.072005}
+  {\path{doi:10.1103/PhysRevD.89.072005}}.
+
+\bibitem{Aaltonen:2013wcp}
+T.~Aaltonen, et~al., {Indirect measurement of $\sin^2\theta_W$ $(M_W)$ using
+  $e^+e^-$ pairs in the Z-boson region with $p\bar{p}$ collisions at a
+  center-of-momentum energy of 1.96 TeV}, Phys.Rev. D88~(7) (2013) 072002.
+\newblock \href {http://arxiv.org/abs/1307.0770} {\path{arXiv:1307.0770}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.88.072002,
+  10.1103/PhysRevD.88.079905} {\path{doi:10.1103/PhysRevD.88.072002,
+  10.1103/PhysRevD.88.079905}}.
+
+\bibitem{Aaltonen:2013vwa}
+T.~A. Aaltonen, et~al., {A precise measurement of the $W$-boson mass with the
+  Collider Detector at Fermilab}, Phys.Rev. D89 (2014) 072003.
+\newblock \href {http://arxiv.org/abs/1311.0894} {\path{arXiv:1311.0894}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.89.072003}
+  {\path{doi:10.1103/PhysRevD.89.072003}}.
+
+\bibitem{Aaltonen:2012bp}
+T.~Aaltonen, et~al., {Precise measurement of the $W$-boson mass with the CDF II
+  detector}, Phys.Rev.Lett. 108 (2012) 151803.
+\newblock \href {http://arxiv.org/abs/1203.0275} {\path{arXiv:1203.0275}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.108.151803}
+  {\path{doi:10.1103/PhysRevLett.108.151803}}.
+
+\bibitem{Chatrchyan:2013tia}
+S.~Chatrchyan, et~al., {Measurement of the differential and double-differential
+  Drell-Yan cross sections in proton-proton collisions at $\sqrt{s} =$ 7 TeV},
+  JHEP 1312 (2013) 030.
+\newblock \href {http://arxiv.org/abs/1310.7291} {\path{arXiv:1310.7291}},
+  \href {http://dx.doi.org/10.1007/JHEP12(2013)030}
+  {\path{doi:10.1007/JHEP12(2013)030}}.
+
+\bibitem{Chatrchyan:2013mza}
+S.~Chatrchyan, et~al., {Measurement of the muon charge asymmetry in inclusive
+  pp $\to$ W + X production at $\sqrt{s}$=7 TeV and an improved determination
+  of light parton distribution functions}\href {http://arxiv.org/abs/1312.6283}
+  {\path{arXiv:1312.6283}}.
+
+\bibitem{Chatrchyan:2012xt}
+S.~Chatrchyan, et~al., {Measurement of the electron charge asymmetry in
+  inclusive $W$ production in $pp$ collisions at $\sqrt{s}=7$ TeV},
+  Phys.Rev.Lett. 109 (2012) 111806.
+\newblock \href {http://arxiv.org/abs/1206.2598} {\path{arXiv:1206.2598}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.109.111806}
+  {\path{doi:10.1103/PhysRevLett.109.111806}}.
+
+\bibitem{Chatrchyan:2013uja}
+S.~Chatrchyan, et~al., {Measurement of associated W + charm production in pp
+  collisions at $\sqrt{s}$ = 7 TeV}, JHEP 1402 (2014) 013.
+\newblock \href {http://arxiv.org/abs/1310.1138} {\path{arXiv:1310.1138}},
+  \href {http://dx.doi.org/10.1007/JHEP02(2014)013}
+  {\path{doi:10.1007/JHEP02(2014)013}}.
+
+\bibitem{Khachatryan:2014dia}
+V.~Khachatryan, et~al., {Measurement of the pp to ZZ production cross section
+  and constraints on anomalous triple gauge couplings in four-lepton final
+  states at $\sqrt{s}$ = 8 TeV}\href {http://arxiv.org/abs/1406.0113}
+  {\path{arXiv:1406.0113}}.
+
+\bibitem{Chatrchyan:2012sga}
+S.~Chatrchyan, et~al., {Measurement of the $ZZ$ production cross section and
+  search for anomalous couplings in 2 l2l ' final states in $pp$ collisions at
+  $\sqrt{s}=7$ TeV}, JHEP 1301 (2013) 063.
+\newblock \href {http://arxiv.org/abs/1211.4890} {\path{arXiv:1211.4890}},
+  \href {http://dx.doi.org/10.1007/JHEP01(2013)063}
+  {\path{doi:10.1007/JHEP01(2013)063}}.
+
+\bibitem{Chatrchyan:2013oev}
+S.~Chatrchyan, et~al., {Measurement of W+W- and ZZ production cross sections in
+  pp collisions at sqrt(s) = 8 TeV}, Phys.Lett. B721 (2013) 190--211.
+\newblock \href {http://arxiv.org/abs/1301.4698} {\path{arXiv:1301.4698}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2013.03.027}
+  {\path{doi:10.1016/j.physletb.2013.03.027}}.
+
+\bibitem{Chatrchyan:2013yaa}
+S.~Chatrchyan, et~al., {Measurement of the $W^+W^-$ Cross section in $pp$
+  Collisions at $\sqrt{s} = 7$ TeV and Limits on Anomalous $WW\gamma$ and $WWZ$
+  couplings}, Eur.Phys.J. C73 (2013) 2610.
+\newblock \href {http://arxiv.org/abs/1306.1126} {\path{arXiv:1306.1126}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-013-2610-8}
+  {\path{doi:10.1140/epjc/s10052-013-2610-8}}.
+
+\bibitem{Chatrchyan:2012bd}
+S.~Chatrchyan, et~al., {Measurement of the sum of $W W$ and $WZ$ production
+  with $W+$dijet events in $pp$ collisions at $\sqrt{s}=7$ TeV}, Eur.Phys.J.
+  C73 (2013) 2283.
+\newblock \href {http://arxiv.org/abs/1210.7544} {\path{arXiv:1210.7544}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-013-2283-3}
+  {\path{doi:10.1140/epjc/s10052-013-2283-3}}.
+
+\bibitem{Chatrchyan:2014bza}
+S.~Chatrchyan, et~al., {A search for WW$\gamma$ and WZ$\gamma$ production and
+  constraints on anomalous quartic gauge couplings in pp collisions at
+  $\sqrt{s}$ = 8 TeV}\href {http://arxiv.org/abs/1404.4619}
+  {\path{arXiv:1404.4619}}.
+
+\bibitem{Chatrchyan:2013fya}
+S.~Chatrchyan, et~al., {Measurement of the W gamma and Z gamma inclusive cross
+  sections in pp collisions at $\sqrt{s}$ = 7 TeV and limits on anomalous
+  triple gauge boson couplings}, Phys.Rev. D89 (2014) 092005.
+\newblock \href {http://arxiv.org/abs/1308.6832} {\path{arXiv:1308.6832}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.89.092005}
+  {\path{doi:10.1103/PhysRevD.89.092005}}.
+
+\bibitem{Chatrchyan:2013nda}
+S.~Chatrchyan, et~al., {Measurement of the production cross section for
+  $Z\gamma \to \nu\bar{\nu}\gamma$ in pp collisions at $\sqrt{s} =$ 7 TeV and
+  limits on $ZZ\gamma$ and $Z\gamma\gamma$ triple gauge boson couplings}, JHEP
+  1310 (2013) 164.
+\newblock \href {http://arxiv.org/abs/1309.1117} {\path{arXiv:1309.1117}},
+  \href {http://dx.doi.org/10.1007/JHEP10(2013)164}
+  {\path{doi:10.1007/JHEP10(2013)164}}.
+
+\bibitem{Chatrchyan:2013foa}
+S.~Chatrchyan, et~al., {Study of exclusive two-photon production of $W^+W^-$ in
+  $pp$ collisions at $\sqrt{s} = 7$ TeV and constraints on anomalous quartic
+  gauge couplings}, JHEP 1307 (2013) 116.
+\newblock \href {http://arxiv.org/abs/1305.5596} {\path{arXiv:1305.5596}},
+  \href {http://dx.doi.org/10.1007/JHEP07(2013)116}
+  {\path{doi:10.1007/JHEP07(2013)116}}.
+
+\bibitem{Chatrchyan:2013jya}
+S.~Chatrchyan, et~al., {Measurement of the hadronic activity in events with a Z
+  and two jets and extraction of the cross section for the electroweak
+  production of a Z with two jets in pp collisions at $\sqrt{s}$ = 7 TeV}, JHEP
+  1310 (2013) 062.
+\newblock \href {http://arxiv.org/abs/1305.7389} {\path{arXiv:1305.7389}},
+  \href {http://dx.doi.org/10.1007/JHEP10(2013)062}
+  {\path{doi:10.1007/JHEP10(2013)062}}.
+
+\bibitem{CMS-PAS-SMP-13-015}
+{Vector boson scattering in a final state with two jets and two same-sign
+  leptons}, Tech. Rep. CMS-PAS-SMP-13-015, CERN, Geneva (2014).
+
+\bibitem{Abazov:2013dsa}
+V.~M. Abazov, et~al., {Measurement of the $W$ Boson Production Charge Asymmetry
+  in $p\bar{p}\rightarrow W+X \rightarrow e\nu +X$ Events at
+  $\sqrt{s}=1.96$~TeV}, Phys.Rev.Lett. 112 (2014) 151803.
+\newblock \href {http://arxiv.org/abs/1312.2895} {\path{arXiv:1312.2895}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.112.151803}
+  {\path{doi:10.1103/PhysRevLett.112.151803}}.
+
+\bibitem{Abazov:2013rja}
+V.~M. Abazov, et~al., {Measurement of the muon charge asymmetry in $p\bar{p}$
+  $\to$ W+X $\to$ $\mu$$\nu$ + X events at $\sqrt{s}$=1.96  TeV}, Phys.Rev.
+  D88 (2013) 091102.
+\newblock \href {http://arxiv.org/abs/1309.2591} {\path{arXiv:1309.2591}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.88.091102}
+  {\path{doi:10.1103/PhysRevD.88.091102}}.
+
+\bibitem{D0:2013jba}
+V.~M. Abazov, et~al., {Measurement of the $W$ boson mass with the D0 detector},
+  Phys.Rev. D89~(1) (2014) 012005.
+\newblock \href {http://arxiv.org/abs/1310.8628} {\path{arXiv:1310.8628}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.89.012005}
+  {\path{doi:10.1103/PhysRevD.89.012005}}.
+
+\bibitem{Abazov:2012bv}
+V.~M. Abazov, et~al., {Measurement of the W Boson Mass with the D0 Detector},
+  Phys.Rev.Lett. 108 (2012) 151804.
+\newblock \href {http://arxiv.org/abs/1203.0293} {\path{arXiv:1203.0293}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.108.151804}
+  {\path{doi:10.1103/PhysRevLett.108.151804}}.
+
+\bibitem{Aaltonen:2013iut}
+T.~A. Aaltonen, et~al., {Combination of CDF and D0 $W$-Boson Mass
+  Measurements}, Phys.Rev. D88~(5) (2013) 052018.
+\newblock \href {http://arxiv.org/abs/1307.7627} {\path{arXiv:1307.7627}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.88.052018}
+  {\path{doi:10.1103/PhysRevD.88.052018}}.
+
+\bibitem{Baak:2013fwa}
+M.~Baak, A.~Blondel, A.~Bodek, R.~Caputo, T.~Corbett, et~al., {Working Group
+  Report: Precision Study of Electroweak Interactions}\href
+  {http://arxiv.org/abs/1310.6708} {\path{arXiv:1310.6708}}.
+
+\bibitem{Bozzi:2011ww}
+G.~Bozzi, J.~Rojo, A.~Vicini, {The Impact of PDF uncertainties on the
+  measurement of the W boson mass at the Tevatron and the LHC}, Phys.Rev. D83
+  (2011) 113008.
+\newblock \href {http://arxiv.org/abs/1104.2056} {\path{arXiv:1104.2056}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.83.113008}
+  {\path{doi:10.1103/PhysRevD.83.113008}}.
+
+\bibitem{Aad:2014zda}
+G.~Aad, et~al., {Evidence for Electroweak Production of $W^{\pm}W^{\pm}jj$ in
+  $pp$ Collisions at $\sqrt{s}=8$ TeV with the ATLAS Detector}\href
+  {http://arxiv.org/abs/1405.6241} {\path{arXiv:1405.6241}}.
+
+\bibitem{Aad:2014dta}
+G.~Aad, et~al., {Measurement of the electroweak production of dijets in
+  association with a Z-boson and distributions sensitive to vector boson fusion
+  in proton-proton collisions at $\sqrt{s} =$ 8 TeV using the ATLAS detector},
+  JHEP 1404 (2014) 031.
+\newblock \href {http://arxiv.org/abs/1401.7610} {\path{arXiv:1401.7610}},
+  \href {http://dx.doi.org/10.1007/JHEP04(2014)031}
+  {\path{doi:10.1007/JHEP04(2014)031}}.
+
+\bibitem{PhysRevD.88.079906}
+G.~Aad, \href{http://link.aps.org/doi/10.1103/PhysRevD.88.079906}{Erratum:
+  Measurement of ${W}^{\mathbf{+}}{W}^{\mathbf{-}}$ production in $pp$
+  collisions at $\sqrt{s}=7\mathrm{TeV}$ with the atlas detector and limits on
+  anomalous $wwz$ and $ww\gamma$ couplings [phys. rev. d 87, 112001 (2013)]},
+  Phys. Rev. D 88 (2013) 079906.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.88.079906}
+  {\path{doi:10.1103/PhysRevD.88.079906}}.
+\newline\urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevD.88.079906}
+
+\end{thebibliography}

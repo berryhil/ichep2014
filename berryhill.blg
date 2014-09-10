@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: berryhill.aux
+The style file: elsarticle-num.bst
+Database file #1: berryhill.bib
+Warning--empty journal in Aad:2014xaa
+Warning--empty author in ATLAS-CONF-2014-033
+Warning--empty journal in Chatrchyan:2013mza
+Warning--empty journal in Khachatryan:2014dia
+Warning--empty journal in Chatrchyan:2014bza
+Warning--empty author in CMS-PAS-SMP-13-015
+Warning--empty journal in Baak:2013fwa
+Warning--empty journal in Aad:2014zda
+You've used 41 entries,
+            2937 wiz_defined-function locations,
+            948 strings with 13315 characters,
+and the built_in function-call counts, 11996 in all, are:
+= -- 1273
+> -- 287
+< -- 2
++ -- 123
+- -- 82
+* -- 1102
+:= -- 1644
+add.period$ -- 74
+call.type$ -- 41
+change.case$ -- 41
+chr.to.int$ -- 0
+cite$ -- 49
+duplicate$ -- 317
+empty$ -- 1277
+format.name$ -- 120
+if$ -- 3090
+int.to.chr$ -- 0
+int.to.str$ -- 41
+missing$ -- 39
+newline$ -- 165
+num.names$ -- 39
+pop$ -- 118
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 820
+stack$ -- 0
+substring$ -- 525
+swap$ -- 174
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 72
+width$ -- 43
+write$ -- 427
+(There were 8 warnings)
